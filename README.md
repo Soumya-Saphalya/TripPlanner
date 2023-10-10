@@ -4,9 +4,9 @@ Welcome to Wanderwise, your go-to trip planning companion. With Wanderwise, you 
 
 ## Getting Started
 
-1. **Installation:** Download Wanderwise from your device's app store (available for iOS and Android).
+.
 
-2. **Creating an Account:** Sign up using your email or social media accounts.
+2. **Creating an Account:** Sign up using your email or social media accounts in wonderwise website.
 
 3. **Setting Your Budget:** Start by entering your trip budget. Wanderwise will use this information to tailor your travel recommendations.
 
